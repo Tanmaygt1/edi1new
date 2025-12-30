@@ -1,0 +1,15 @@
+# Virtual Environment
+drowsy_env/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Logs and outputs
+logs/
+*.csv
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
