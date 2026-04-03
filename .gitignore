@@ -1,3 +1,25 @@
+
+# Virtual environments
+drowsy_env/
+venv/
+
+# Logs
+logs/
+
+# Environment file
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
 *.pyc 
 *.pyo 
 .env 
