@@ -1,0 +1,7 @@
+DRIVER DROWSINESS SESSION SUMMARY
+========================================
+
+Peak Fatigue Score : 22
+Yawns Detected     : 0
+Microsleeps        : 2
+Risk Level         : LOW

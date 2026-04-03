@@ -1,15 +1,10 @@
-# Virtual Environment
-drowsy_env/
-
-# Cache
-__pycache__/
-*.pyc
-
-# Logs and outputs
-logs/
-*.csv
-*.txt
-
-# OS files
-.DS_Store
-Thumbs.db
+*.pyc 
+*.pyo 
+.env 
+venv/ 
+.venv/ 
+*.pkl 
+*.h5 
+*.pt 
+dist/ 
+build/ 
